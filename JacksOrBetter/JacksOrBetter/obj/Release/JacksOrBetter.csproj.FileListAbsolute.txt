@@ -1,0 +1,5 @@
+d:\#users\manager\documents\visual studio 2013\Projects\JacksOrBetter\JacksOrBetter\bin\Release\JacksOrBetter.exe
+d:\#users\manager\documents\visual studio 2013\Projects\JacksOrBetter\JacksOrBetter\bin\Release\JacksOrBetter.pdb
+d:\#users\manager\documents\visual studio 2013\Projects\JacksOrBetter\JacksOrBetter\obj\Release\JacksOrBetter.exe
+d:\#users\manager\documents\visual studio 2013\Projects\JacksOrBetter\JacksOrBetter\obj\Release\JacksOrBetter.pdb
+d:\#users\manager\documents\visual studio 2013\Projects\JacksOrBetter\JacksOrBetter\obj\Release\JacksOrBetter.csprojResolveAssemblyReference.cache
